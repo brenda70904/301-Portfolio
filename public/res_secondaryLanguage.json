@@ -1,9 +1,9 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "關於我...",
+      "description": "👋 你好！我的名字是周佳樺，我是一位碼農。在轉職做碼農以前，我是一名幼稚園的老師。從小我就喜歡玩益智遊戲，也對電腦很感興趣。去年決定開始自學Java，我很享受學習的過程，於是決定今年上Bootcamp正式轉職碼農。🖥️希望以後能夠利用我所學的去幫助對於程式語言也有興趣的孩子，並回饋我所學給這世界💜",
       "section_name": {
-        "about": "O mnie",
+        "about": "關於我",
         "projects": "Projekty",
         "skills": "Umiejętności",
         "experience": "Doświadczenie"
