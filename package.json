@@ -40,7 +40,9 @@
   },
   "homepage": ".",
   "devDependencies": {
+    "@iconify/icons-bxl": "^1.2.5",
     "@iconify/icons-logos": "^1.2.19",
+    "@iconify/icons-tabler": "^1.2.47",
     "@iconify/react": "^1.1.4",
     "gh-pages": "^3.2.3",
     "mini-css-extract-plugin": "^2.4.5",
