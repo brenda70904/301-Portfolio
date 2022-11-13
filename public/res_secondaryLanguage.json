@@ -4,9 +4,9 @@
       "description": "👋 你好！我的名字是周佳樺，我是一位碼農。在轉職做碼農以前，我是一名幼稚園的老師。從小我就喜歡玩益智遊戲，也對電腦很感興趣。去年決定開始自學Java，我很享受學習的過程，於是決定今年上Bootcamp正式轉職碼農。🖥️希望以後能夠利用我所學的去幫助對於程式語言也有興趣的孩子，並回饋我所學給這世界💜",
       "section_name": {
         "about": "關於我",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "projects": "專案",
+        "skills": "專業技能",
+        "experience": "經驗"
       }
     },
     "projects": [
@@ -22,28 +22,29 @@
         "url": "https://brenda70904.github.io/meal-recommendation-app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-typescript-plain",
+            "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
+            "class": "devicon-html5-plain",
             "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "角之畫廊",
+        "startDate": "2022",
         "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Horn-Beast/p1.png",
+          "images/portfolio/Horn-Beast/p2.png",
+          "images/portfolio/Horn-Beast/p3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://brenda70904.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -52,30 +53,36 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },{
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },{
+            "class": "devicon-css3-plain",
+            "name": "css"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "怪鴨商品",
+        "startDate": "2022",
+        "description": "Code Fellows cod201 專題，用戶可以對所展示的 3 種產品中的一種進行投票，這樣公司就可以決定下一個推向市場的新產品應該是什麼。",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Odd-Duck/p1.png",
+          "images/portfolio/Odd-Duck/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://brenda70904.github.io/Odd-Duck-Products/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "css"
           }
         ]
       }

@@ -22,26 +22,27 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "javaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "html5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "css"
           }
         ]
       },
       {
-        "title": "Salmon Cookie",
+        "title": "Gallery of Horns",
         "startDate": "2022",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Horn-Beast/p1.png",
+          "images/portfolio/Horn-Beast/p2.png",
+          "images/portfolio/Horn-Beast/p3.png"
         ],
         "url": "https://brenda70904.github.io/cookie-stand/",
         "technologies": [
@@ -52,30 +53,36 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },{
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },{
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Odd Duck Products",
+        "startDate": "2022",
+        "description": "One of the project from Code201 at Code Fellows. User can vote for 1 of the 3 products displayed so the company can dedide what should be the next new product brought to market. ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Odd-Duck/p1.png",
+          "images/portfolio/Odd-Duck/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://brenda70904.github.io/Odd-Duck-Products/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "Css"
           }
         ]
       }
