@@ -96,11 +96,13 @@
           "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "REST API",
+          "Node.js",
+          "CSS",
+          "Bootstrap",
+          "MongoDB",
+          "HTML",
+          "React"
         ]
       },
       {
