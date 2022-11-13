@@ -19,6 +19,11 @@
     "skills": {
       "icons": [
         {
+          "name": "React",
+          "class": "devicon-React-plain",
+          "level": "95"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
