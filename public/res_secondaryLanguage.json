@@ -89,35 +89,29 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Code Fellows",
+        "title": "學生",
+        "years": "09.2022 - 現在",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
-          "JavaScript",
+          "Node.js",
+          "CSS",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "MongoDB",
+          "HTML",
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "雷典禮教育中心",
+        "title": "班導師",
+        "years": "06.2018- 09.2022",
         "mainTech": [
-          "Angular 7/8"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
         ]
       }
     ]

@@ -89,28 +89,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Code Fellows",
+        "title": "student",
+        "years": "09.2022 - present",
         "mainTech": [
           "Angular 7/8"
         ],
@@ -120,6 +101,15 @@
           "PHP",
           "JavaScript",
           "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "Denise Louie Education Center",
+        "title": "Preschool Lead Teacher",
+        "years": "06.2018 - 09.2022",
+        "mainTech": [
+        ],
+        "technologies": [
         ]
       }
     ]
