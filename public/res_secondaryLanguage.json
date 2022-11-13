@@ -11,26 +11,27 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "口袋食品儲藏室",
+        "startDate": "2022",
+        "description": "Code Fellows Code201 學期末專題 - 我們的網站將允許用戶勾選他們在家中擁有的食材，依照用戶選取的食材提供的食譜。",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Pocket-Pantry/p1.png",
+          "images/portfolio/Pocket-Pantry/p2.png",
+          "images/portfolio/Pocket-Pantry/p3.png"
         ],
-        "url": "",
+        "url": "https://brenda70904.github.io/meal-recommendation-app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "CSS"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "JavaScript"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "HTML"
           }
         ]
       },
