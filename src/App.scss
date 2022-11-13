@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #8ec2fa;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #efe1bd;
 	overflow: hidden;
 }
 
@@ -389,7 +389,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #7fbafa;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -402,39 +402,39 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: rgb(254, 251, 238);
 	text-align: center;
 }
 
 .skill-icon {
 	font-size: 180%;
-	color: white;
+	color: rgb(45, 45, 45);
 	text-align: center;
 	position: relative;
 }
 
 footer {
-	background: #1F1F1F;
+	background: #0053ac;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
 	font-size: 14px;
-	color: white;
+	color: rgb(254, 251, 238);
 	position: relative;
 	text-align: center;
 }
 
 footer a,
 footer a:visited {
-	color: #fff;
+	color: rgb(254, 251, 238);
 }
 
 footer a:hover,
 footer a:focus {
-	color: #fff;
+	color: rgb(254, 251, 238);
 }
 
 .social-links {
 	margin-top: 10px;
-	font-size: 22px;
+	font-size: 30px;
 }
