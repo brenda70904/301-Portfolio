@@ -17,6 +17,8 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: 25px;
+	color:#7fbafa;
 }
 
 .title-styles {
@@ -25,6 +27,7 @@ html {
 }
 
 .header-icon {
+	color:rgb(2, 1, 52);
 	height: 150px;
 	width: 150px;
 }
@@ -38,7 +41,8 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #8ec2fa;
+	background-image: url(../public/images/thomas-tucker-taipei-unsplash.jpg);
+	// background-color: #8ec2fa;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -48,7 +52,7 @@ header {
 }
 
 header .nav {
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 20px/30px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
@@ -95,7 +99,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color:rgb(2, 1, 52);
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
