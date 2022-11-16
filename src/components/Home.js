@@ -7,6 +7,7 @@ class Home extends Component {
   render() {
     return (
       <div>
+        
         <Projects
           resumeProjects={this.props.resumeData.projects}
           resumeBasicInfo={this.props.resumeData.basic_info}
